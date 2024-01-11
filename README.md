@@ -12,14 +12,14 @@ Este proyecto presenta un widget que muestra en tiempo real los valores del dól
 
 ## Cómo Implementar
 
-2. **Incluir el Widget en tu Sitio Web:**
+1. **Incluir el Widget en tu Sitio Web:**
    - Descarga los archivos del repositorio o clona el repositorio en tu máquina.
    - Incluye el código del widget en la sección de tu página donde deseas mostrar la información del dólar.
      
-4. **Personalizar Opciones (Opcional):**
+2. **Personalizar Opciones (Opcional):**
    - Explora el código para encontrar secciones que puedes ajustar según tus preferencias, como colores, tamaños de fuente, etc.
 
-5. **¡Listo para Usar!:**
+3. **¡Listo para Usar!:**
    - Guarda los cambios y carga tu página web. Ahora deberías ver el widget mostrando las cotizaciones del dólar en tiempo real.
 
 ## Contribuciones
@@ -32,5 +32,5 @@ Este proyecto está bajo la licencia [MIT](LICENSE), lo que significa que puedes
 
 ¡Gracias por utilizar mi Widget Dólar Hoy! Esperamos que sea de utilidad para tu proyecto.
 
-Alejo
+- Alejo
 

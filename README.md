@@ -1,4 +1,4 @@
-Widget Dólar Hoy Argentina
+# Widget Dólar Hoy Argentina
 Descripción del Proyecto
 Bienvenido al repositorio del Widget Dólar Hoy Argentina. Este proyecto consiste en un widget que muestra en tiempo real los valores del dólar en Argentina, obtenidos a través de la API de la página Dólar Hoy. El objetivo principal es proporcionar una herramienta fácil de implementar para mostrar información actualizada sobre las cotizaciones de dólares en el país.
 

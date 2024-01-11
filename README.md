@@ -32,5 +32,5 @@ Este proyecto está bajo la licencia [MIT](LICENSE), lo que significa que puedes
 
 ¡Gracias por utilizar mi Widget Dólar Hoy! Esperamos que sea de utilidad para tu proyecto.
 
-- Alejo
+Alejo :)
 
